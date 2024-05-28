@@ -1,1 +1,1 @@
-This is a simple program for developer to 
+这个是服务于movoid_xml_data的可视化编辑工具，通过读取一个有效的xml文件，然后进行编辑、查询来提高xml_data的使用效率
